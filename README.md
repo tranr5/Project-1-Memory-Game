@@ -18,9 +18,9 @@ JavaScript, CSS and HTML
 </ul>
 
 ### Game Pictures
-  When the game loads you will need to click the button to start the timer
+  When the game loads you will need to click the button to start the timer<br>
   <img src="https://i.imgur.com/GnSLwT7.png" height="300px"/> <br>
-  Whenever the player choose the cards to flip. If it is a match, they will stay flipped
+  Whenever the player choose the cards to flip. If it is a match, they will stay flipped<br>
    <img src="https://i.imgur.com/XSaPwYQ.png" height="300px"/> 
 
 ### Link to Game
