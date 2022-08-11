@@ -1,0 +1,29 @@
+What does the MVP of this game look like?
+to be able to match cards together and flip back if its not the same 
+to stay flipeed if it is a match
+have a reset button
+flip animation
+
+Put the elements of this project into priority order, and draw a line separating the core goals from the stretch goals.
+get them to match properly
+have no bugs on cards with multiple clicks or such
+randomize per refresh
+animation for flipping
+
+
+Fix the not-specific-enough user stories from the readme here:
+
+
+Convert your list of game goals into discrete user stories. User stories should roughly be in the form of: "When I <do x>, I see <y thing happening>"
+
+
+What pieces of game state will we need for this game?
+the cards
+the cards need to have icons
+
+
+
+You start the game by clicking the tiles
+they flip til they match all the pieces
+they win by flipping all the tiles
+the player can't lose unless they stop
